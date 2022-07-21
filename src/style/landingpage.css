@@ -1,0 +1,61 @@
+.myBG {
+    height: 100vh;
+    background: url("../assets/images/fototujuh1.png");
+    background-size: cover;
+}
+
+.intro {
+    height: 300px;
+    display: flex;
+    justify-content: end;
+    align-items: end;
+}
+
+.title {
+    font-size: 3rem;
+    font-weight: 800;
+    line-height: 1;
+    text-shadow: 2px 2px black;
+    letter-spacing: 3px;
+}
+
+.Pertama {
+    height: auto;
+    background: url("../assets/images/estetik8.jpg");
+    background-size: cover;
+}
+
+.Kedua {
+    height: auto;
+    background: url("../assets/images/estetik7.jpg");
+    background-size: cover;
+}
+
+.Ketiga {
+    height: auto;
+    background: url("../assets/images/estetik3.jpg");
+    background-size: cover;
+}
+
+.Keempat {
+    height: auto;
+    background: url("../assets/images/estetik2.jpeg");
+    background-size: cover;
+}
+
+.ImageWrapper {
+
+}
+
+.Imagessembilan {
+    height: auto;
+    background-color: black;
+    margin: 5px;
+    padding: 5px;
+}
+
+.closing {
+    height: 100vh;
+    background: url("../assets/images/estetikk.jpeg");
+    background-size: cover;
+}

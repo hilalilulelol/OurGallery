@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/OurGallery/static/css/main.7574eaf3.css",
+    "main.js": "/OurGallery/static/js/main.b915639e.js",
+    "static/js/787.cd737386.chunk.js": "/OurGallery/static/js/787.cd737386.chunk.js",
+    "static/media/fotoempat.png": "/OurGallery/static/media/fotoempat.e6323a8e4de838b4e333.png",
+    "static/media/fototiga.png": "/OurGallery/static/media/fototiga.85e8764ad6aaadcc48b4.png",
+    "static/media/fotodelapan.png": "/OurGallery/static/media/fotodelapan.8b1ece4c98b89fb83611.png",
+    "static/media/fotosatu.png": "/OurGallery/static/media/fotosatu.52eceed72bf0dc2d2d6c.png",
+    "static/media/fotolima.png": "/OurGallery/static/media/fotolima.2cb265f4943698bb4425.png",
+    "static/media/fotodua.png": "/OurGallery/static/media/fotodua.9dae973922c17e61e417.png",
+    "static/media/estetik7.jpg": "/OurGallery/static/media/estetik7.5b44984b66245b07e6b8.jpg",
+    "static/media/fotoenam.png": "/OurGallery/static/media/fotoenam.38c93f1cc3aab27b8694.png",
+    "static/media/estetik3.jpg": "/OurGallery/static/media/estetik3.9effad9c4f3d90f2c974.jpg",
+    "static/media/estetik8.jpg": "/OurGallery/static/media/estetik8.5c992aeef0a79413e16c.jpg",
+    "static/media/fotosembilan.png": "/OurGallery/static/media/fotosembilan.7a0c7c1e9f45b7f50b5a.png",
+    "static/media/fototujuh1.png": "/OurGallery/static/media/fototujuh1.919e6523e52d929f0ab3.png",
+    "static/media/estetikk.jpeg": "/OurGallery/static/media/estetikk.0c1bcb14cf2ce4612abd.jpeg",
+    "static/media/estetik2.jpeg": "/OurGallery/static/media/estetik2.be6916a3cb79fed56187.jpeg",
+    "index.html": "/OurGallery/index.html",
+    "main.7574eaf3.css.map": "/OurGallery/static/css/main.7574eaf3.css.map",
+    "main.b915639e.js.map": "/OurGallery/static/js/main.b915639e.js.map",
+    "787.cd737386.chunk.js.map": "/OurGallery/static/js/787.cd737386.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7574eaf3.css",
+    "static/js/main.b915639e.js"
+  ]
+}
